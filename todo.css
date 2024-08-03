@@ -1,0 +1,45 @@
+.header{
+    background-color: hsl(339, 48%, 32%);
+    color: black;
+    height: 100px;
+    width: 1000px;
+    margin: 0px;
+    text-align: center;
+    padding: 20px;
+}
+
+.items{
+    margin-left: 30px;
+}
+
+#submitBtn{
+    background-color: rgb(53, 81, 94);
+    color: azure;
+    text-decoration: none; 
+    border: none;
+    height: 30px;
+    width: 60px;
+    border-radius: 3px;
+}
+
+#submitBtn:hover{
+    background-color: rgb(36, 55, 64);
+
+}
+
+#deleteBtn{
+    background-color: rgb(53, 81, 94);
+    color: azure;
+    text-decoration: none; 
+    border: none;
+    border-radius: 3px;
+}
+
+#deleteBtn:hover{
+    background-color: rgb(36, 55, 64);
+
+}
+
+#tasks{
+    margin-left: 30px;
+}
